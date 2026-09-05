@@ -1,5 +1,5 @@
 ﻿# Hi there, I'm Adham Hany 👋 🚀
-### Full Stack Developer | Game Developer | Problem Solver
+### B.Sc. Computer Science Student (In Progress — Helwan National Univ.) | Full Stack Developer | Problem Solver
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
