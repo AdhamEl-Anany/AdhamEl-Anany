@@ -14,7 +14,7 @@
 
 ---
 
-## 🏆 Top Featured Projects (المشاريع الأساسية والقوية)
+##  Top Featured Projects 
 
 ### 1. 🛒 [NexarCart Shopping Web](https://github.com/AdhamEl-Anany/NexarCart-Shopping-Web)
 * **Description:** A comprehensive E-Commerce platform with multi-category product browsing, interactive cart, checkout, admin & seller dashboards, and multi-language support.
