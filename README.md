@@ -46,9 +46,9 @@
 
 ---
 
-### 6. 👾 [Pac-Man JS Game](https://github.com/AdhamEl-Anany/PacMan-JS-Game)
-* **Description:** Interactive HTML5 Canvas Pac-Man game with enemy ghost AI, smooth animations, dynamic scoring, and arcade styling.
-* 🌐 **Live Demo:** [Pac-Man Live Site](https://adhamel-anany.github.io/PacMan-JS-Game/)
+### 6. 👾 [Pac-Man Fan & Lore Web Portal](https://github.com/AdhamEl-Anany/PacMan-JS-Game)
+* **Description:** Interactive Pac-Man informational & fan web portal showcasing character lore, ghost profiles, clans, and media galleries.
+* 🌐 **Live Demo:** [Pac-Man Portal Live Site](https://adhamel-anany.github.io/PacMan-JS-Game/)
 
 ---
 
