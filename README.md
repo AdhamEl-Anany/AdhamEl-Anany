@@ -1,11 +1,20 @@
 ﻿# Hi there, I'm Adham Hany 👋 🚀
 ### Full Stack Developer | Game Developer | Problem Solver
 
-Welcome to my GitHub profile! Below are my **top featured projects** ordered by strength, features, and technical complexity.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-## 🏆 Featured & Top Projects (المشاريع الأساسية والقوية)
+## 🏆 Top Featured Projects (المشاريع الأساسية والقوية)
 
 ### 1. 🛒 [NexarCart Shopping Web](https://github.com/AdhamEl-Anany/NexarCart-Shopping-Web)
 * **Description:** A comprehensive E-Commerce platform with multi-category product browsing, interactive cart, checkout, admin & seller dashboards, and multi-language support.
@@ -55,5 +64,10 @@ Welcome to my GitHub profile! Below are my **top featured projects** ordered by 
 * ❌ **[Tic-Tac-Toe Game](https://adhamel-anany.github.io/Tic-Tac-Toe-Game/)** - Classic XO Web Game
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdhamEl-Anany&show_icons=true&theme=radial&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamEl-Anany&layout=compact&theme=radial&hide_border=true" height="150" />
+</p>
 
 📫 **Connect with me:** [GitHub Profile](https://github.com/AdhamEl-Anany)
